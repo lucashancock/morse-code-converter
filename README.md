@@ -16,6 +16,10 @@ This project is a tool to convert Morse code audio signals into readable words. 
 
 4. **Dune**: You will need dune installed on your system as well to build and execute the project.
 
+## Video Demonstration
+
+https://github.com/lucashancock/morse-code-converter/assets/111306378/642fbed1-7fbf-436d-997a-10145afbd354
+
 ## Usage
 
 1. Clone the repository
