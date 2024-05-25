@@ -1,4 +1,7 @@
 (lang dune 3.15)
 (name morse_code_translator)
-(sections (lib .) (bin ../../bin))
-(files (lib (META dune-package opam)) (bin (morse_code_translator)))
+(sections (lib .) (bin ../../bin) (doc ../../doc/morse_code_translator))
+(files
+ (lib (META dune-package opam))
+ (bin (morse_code_translator))
+ (doc (README.md)))

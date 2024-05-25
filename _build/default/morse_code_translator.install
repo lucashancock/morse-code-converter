@@ -6,3 +6,6 @@ lib: [
 bin: [
   "_build/install/default/bin/morse_code_translator"
 ]
+doc: [
+  "_build/install/default/doc/morse_code_translator/README.md"
+]
