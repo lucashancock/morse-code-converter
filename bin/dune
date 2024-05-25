@@ -1,0 +1,4 @@
+(executable
+ (public_name morse_code_translator)
+ (name main)
+ (libraries core_unix core morse_code_translator))

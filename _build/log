@@ -1,0 +1,16 @@
+# dune exec morse_code_translator
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/luke/.cache/dune/db
+# Workspace root: /Users/luke/Documents/ocaml-code/morse_code_translator
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/luke/.opam/default/bin/ocamlc.opt -config > /var/folders/7k/f9p9k_s52qsgldn87gbg8jcw0000gn/T/dune_0f252b_output

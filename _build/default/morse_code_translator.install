@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/morse_code_translator/META"
+  "_build/install/default/lib/morse_code_translator/dune-package"
+  "_build/install/default/lib/morse_code_translator/opam"
+]
+bin: [
+  "_build/install/default/bin/morse_code_translator"
+]
